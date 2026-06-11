@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">EduHub</string>
+    
+    <!-- Navigation Tabs -->
+    <string name="tab_home">الرئيسية</string>
+    <string name="tab_notes">الملخصات</string>
+    <string name="tab_exams">الاختبارات</string>
+    <string name="tab_tutor">المعلم الذكي</string>
+    <string name="tab_studio">رفع</string>
+    <string name="tab_dashboard">الملف الشخصي</string>
+
+    <!-- Authentication Screen -->
+    <string name="auth_title">مرحبًا بك في EduHub</string>
+    <string name="auth_subtitle">المنصة الأكاديمية الأولى للطلاب</string>
+    <string name="auth_email_placeholder">البريد الإلكتروني الجامعي (مثال: alex@u.edu)</string>
+    <string name="auth_error_email">يرجى إدخال بريد إلكتروني جامعي صالح.</string>
+    <string name="auth_role_title">اختر دورك الرئيسي في منصة العمل:</string>
+    <string name="auth_role_student">طالب</string>
+    <string name="auth_role_instructor">معلم</string>
+    <string name="auth_btn_login">تسجيل الدخول / البدء</string>
+    <string name="auth_features_title">ماذا يوجد داخل EduHub؟</string>
+    <string name="auth_feature_1">شراء وبيع ملخصات المقررات الدراسية المعتمدة والاختبارات السابقة.</string>
+    <string name="auth_feature_2">الحصول على مساعدة فورية وتفاعلية من رفيق الدراسة الذكي Gemini.</string>
+    <string name="auth_feature_3">إكمال اختبارات تشخيصية تكيفية وتتبع تحليلات الدرجات.</string>
+
+    <!-- Home Tab -->
+    <string name="home_search_title">استكشف محتوى المقررات</string>
+    <string name="home_search_subtitle">أدخل اسم المادة، رمز المقرر، أو الجامعة...</string>
+    <string name="home_search_placeholder">ابحث عن المقررات، وملخصات الاختبار...</string>
+    <string name="home_categories">التصنيفات</string>
+    <string name="home_courses_section">أفضل المواد التعليمية</string>
+    <string name="home_rating">التقييم</string>
+    <string name="home_lessons">دروس</string>
+    <string name="home_reviews">مراجعات</string>
+    <string name="home_note_type">دليل المقرر الدراسي</string>
+    <string name="home_no_courses">لم يتم العثور على مقررات تطابق بحثك.</string>
+    <string name="home_price">السعر</string>
+
+    <!-- Detail Screen -->
+    <string name="detail_price">السعر :</string>
+    <string name="detail_buy_now">شراء المحتوى التعليمي</string>
+    <string name="detail_reviews_title">مراجعات الطلاب</string>
+    <string name="detail_lesson_plan">خطة الدروس / المنهج</string>
+    <string name="detail_note_preview">معاينة المحتوى</string>
+    <string name="detail_no_reviews">لا توجد مراجعات مضافة بعد. كن أول من يكتب مراجعة!</string>
+
+    <!-- Notes Tab -->
+    <string name="notes_title">ملخصات وملاحظات جامعية</string>
+    <string name="notes_subtitle">ابحث في ملاحظات الدراسة والملفات المكتوبة بخط اليد</string>
+    <string name="notes_seller">البائع :</string>
+    <string name="notes_preview_text">معاينة المحتوى :</string>
+    <string name="notes_no_notes">لم يتم العثور على ملخصات دراسية تطابق معاييرك.</string>
+
+    <!-- Exams Tab -->
+    <string name="exams_title">التقييم الذاتي وبنك الاختبارات</string>
+    <string name="exams_subtitle">تحدّ نفسك واختبر معلوماتك عبر اختبارات تفاعلية ومحاكاة</string>
+    <string name="exams_generate_btn">إنشاء اختبار تفاعلي جديد</string>
+    <string name="exams_generating">جاري توليد الاختبار بواسطة Gemini...</string>
+    <string name="exams_physics">فيزياء ٢</string>
+    <string name="exams_calculus">حساب التفاضل والتكامل ٢</string>
+    <string name="exams_data_structures">هياكل البيانات</string>
+    <string name="exams_os">نظم التشغيل</string>
+    <string name="exams_no_quizzes">لا توجد اختبارات مخصصة متاحة بعد. قم بإنشاء اختبارك الأول باستخدام النموذج أعلاه!</string>
+    <string name="exams_custom_subj">مادة مخصصة :</string>
+    <string name="exams_topic">الموضوع :</string>
+    <string name="exams_score">النتيجة :</string>
+
+    <!-- Tutor Tab -->
+    <string name="tutor_title">مجموعة الدراسة الافتراضية مع المعلم الذكي</string>
+    <string name="tutor_subtitle">معلم مدعوم بـ Gemini لحساب التفاضل، الفيزياء، والأنظمة</string>
+    <string name="tutor_placeholder">اسألني أي شيء عن منهجك الجامعي...</string>
+    <string name="tutor_send">إرسال</string>
+    <string name="tutor_clear">مسح سجل المحادثة</string>
+    <string name="tutor_welcome">مرحبًا! أنا معلمك الأكاديمي المدعوم بـ Gemini. اسألني أي سؤال حول مقرراتك الجامعية!</string>
+
+    <!-- Upload Tab (Studio) -->
+    <string name="studio_title">لوحة منشئي المحتوى (الأستوديو)</string>
+    <string name="studio_subtitle">ارفع ملفاتك التعليمية والاختبارات السابقة، واحصل على أرباح مادية من الطلاب</string>
+    <string name="studio_item_title">العنوان</string>
+    <string name="studio_item_desc">الوصف</string>
+    <string name="studio_item_type">نوع المحتوى (COURSE أو NOTE)</string>
+    <string name="studio_item_price">السعر ($ دولار أمريكي)</string>
+    <string name="studio_item_category">تصنيف المادة (مثال: علوم الحاسب، الرياضيات)</string>
+    <string name="studio_item_lessons">خطة المقرر الدراسي (سطر واحد لكل درس)</string>
+    <string name="studio_btn_list">إدراج المحتوى في المتجر</string>
+    <string name="studio_success">تم إدراج المحتوى بنجاح في متجر المقررات!</string>
+
+    <!-- Profile/Dashboard Tab -->
+    <string name="dashboard_member">عضو في EduHub</string>
+    <string name="dashboard_premium_member">عضوية EduHub Plus المميزة</string>
+    <string name="dashboard_premium_desc">احصل على وصول غير محدود للاختبارات السابقة وعشرة ملخصات مجانية شهريًا.</string>
+    <string name="dashboard_library">مكتبتي (المحتوى المشتري)</string>
+    <string name="dashboard_no_purchases">لم تقم بشراء أي مقررات أو ملخصات بعد. ستظهر جميع مشترياتك هنا للوصول الدائم.</string>
+    <string name="dashboard_logout">تسجيل الخروج</string>
+    <string name="dashboard_become_creator">كن صانع محتوى</string>
+    <string name="dashboard_switch_student">التبديل إلى طالب</string>
+    <string name="dashboard_role">دور الحساب: </string>
+    <string name="dashboard_language_section">اللغة / Language</string>
+    <string name="dashboard_change_language">اختر لغة التطبيق</string>
+
+    <string name="notes_no_notes_long">لا توجد ملخصات طلابية مدرجة حتى الآن. ابدأ برفع ملفاتك لكسب الأرباح ماديًا!</string>
+    <string name="exams_tab_past">الاختبارات السابقة للجامعة</string>
+    <string name="exams_tab_practice">أجهزة محاكاة التدريب</string>
+    <string name="exams_no_material">لا تتوفر مواد اختبار في هذا القسم حاليًا. يمكنك أن تطلب من المعلم الذكي توليد أسئلة اختيار من متعدد مخصصة لك فورًا!</string>
+    <string name="studio_upgrade_title">كن بائعاً في EduHub</string>
+    <string name="studio_upgrade_desc">اكسب عوائد مالية سلبية من خلال رفع ملخصات مراجعة عالية الأهمية ومجموعات أسئلة الاختبارات النصفية! يتم نقل 70٪ من كل عملية بيع مباشرة إلى رصيدك.</string>
+    <string name="studio_upgrade_btn">ترقية فورية إلى حساب بائع</string>
+    <string name="studio_balance">الرصيد الفعال</string>
+    <string name="studio_cashout">سحب الأرباح</string>
+    <string name="studio_tab_course">نشر كورس فيديو</string>
+    <string name="studio_tab_pdf">نشر ملخص PDF</string>
+    <string name="studio_item_cat">التصنيف</string>
+</resources>

@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">EduHub</string>
+    
+    <!-- Navigation Tabs -->
+    <string name="tab_home">Home</string>
+    <string name="tab_notes">Notes</string>
+    <string name="tab_exams">Exams</string>
+    <string name="tab_tutor">AI Tutor</string>
+    <string name="tab_studio">Upload</string>
+    <string name="tab_dashboard">Profile</string>
+    <string name="tab_playground">Swift Play</string>
+
+    <!-- Authentication Screen -->
+    <string name="auth_title">Welcome to EduHub</string>
+    <string name="auth_subtitle">The Premier Academic Marketplace</string>
+    <string name="auth_email_placeholder">University Email Address (e.g. alex@u.edu)</string>
+    <string name="auth_error_email">Please enter a valid university email address.</string>
+    <string name="auth_role_title">Choose your primary workspace role:</string>
+    <string name="auth_role_student">STUDENT</string>
+    <string name="auth_role_instructor">INSTRUCTOR</string>
+    <string name="auth_btn_login">Sign In / Get Started</string>
+    <string name="auth_features_title">What\'s inside EduHub?</string>
+    <string name="auth_feature_1">Buy &amp; sell verified structural course notes &amp; past exams.</string>
+    <string name="auth_feature_2">Get interactive, instant assistance from the Gemini AI Study Buddy.</string>
+    <string name="auth_feature_3">Complete adaptive diagnostic exams and track score analytics.</string>
+
+    <!-- Home Tab -->
+    <string name="home_search_title">Discover Course Content</string>
+    <string name="home_search_subtitle">Enter subject, course code, or university...</string>
+    <string name="home_search_placeholder">Search courses, exam notes...</string>
+    <string name="home_categories">Categories</string>
+    <string name="home_courses_section">Best Course Materials</string>
+    <string name="home_rating">Rating</string>
+    <string name="home_lessons">lessons</string>
+    <string name="home_reviews">reviews</string>
+    <string name="home_note_type">Course Guide</string>
+    <string name="home_no_courses">No courses found matching your query.</string>
+    <string name="home_price">Price</string>
+
+    <!-- Detail Screen -->
+    <string name="detail_price">Price:</string>
+    <string name="detail_buy_now">Purchase Resource</string>
+    <string name="detail_reviews_title">Student Reviews</string>
+    <string name="detail_lesson_plan">Lesson Plan / Curricula</string>
+    <string name="detail_note_preview">Content Preview</string>
+    <string name="detail_no_reviews">No reviews listed yet. Write the first review!</string>
+
+    <!-- Notes Tab -->
+    <string name="notes_title">University Summaries &amp; Notes</string>
+    <string name="notes_subtitle">Search study notes and detailed hand-written PDFs</string>
+    <string name="notes_seller">Seller:</string>
+    <string name="notes_preview_text">Content Preview:</string>
+    <string name="notes_no_notes">No study notes found matching your criteria.</string>
+
+    <!-- Exams Tab -->
+    <string name="exams_title">Self-Assessment Exams &amp; Diagnostic Quizzes</string>
+    <string name="exams_subtitle">Challenge yourself with interactive simulated exams</string>
+    <string name="exams_generate_btn">Generate New Interactive Quiz</string>
+    <string name="exams_generating">Generating quiz via Gemini...</string>
+    <string name="exams_physics">Physics II</string>
+    <string name="exams_calculus">Calculus 2</string>
+    <string name="exams_data_structures">Data Structures</string>
+    <string name="exams_os">Operating Systems</string>
+    <string name="exams_no_quizzes">No custom quizzes available yet. Generate your first one using the form above!</string>
+    <string name="exams_custom_subj">Custom Subject:</string>
+    <string name="exams_topic">Topic:</string>
+    <string name="exams_score">Score:</string>
+
+    <!-- Tutor Tab -->
+    <string name="tutor_title">AI Tutor Virtual Study Group</string>
+    <string name="tutor_subtitle">Gemini-powered tutor for Calculus, Physics, &amp; Systems</string>
+    <string name="tutor_placeholder">Ask me anything about your university curriculum...</string>
+    <string name="tutor_send">Send</string>
+    <string name="tutor_clear">Clear Chat History</string>
+    <string name="tutor_welcome">Hi! I\'m your Gemini Academic Tutor. Ask me any question about university coursework!</string>
+
+    <!-- Upload Tab (Studio) -->
+    <string name="studio_title">Creator Studio Panel</string>
+    <string name="studio_subtitle">Upload past papers, lesson guides, or study notes and get paid by students</string>
+    <string name="studio_item_title">Title</string>
+    <string name="studio_item_desc">Description</string>
+    <string name="studio_item_type">Content Type (COURSE or NOTE)</string>
+    <string name="studio_item_price">Price ($ USD)</string>
+    <string name="studio_item_category">Subject Category (e.g., Computer Science, Mathematics)</string>
+    <string name="studio_item_lessons">Lesson Outlines (one per line)</string>
+    <string name="studio_btn_list">List Content in Marketplace</string>
+    <string name="studio_success">Content successfully listed in Home Marketplace catalog!</string>
+
+    <!-- Profile/Dashboard Tab -->
+    <string name="dashboard_member">EduHub Member</string>
+    <string name="dashboard_premium_member">EduHub Plus Premium Member</string>
+    <string name="dashboard_premium_desc">Gain unlimited access to past papers + 10 free summaries monthly.</string>
+    <string name="dashboard_library">My Library (Purchased Resources)</string>
+    <string name="dashboard_no_purchases">You haven\'t bought any courses or notes yet. All purchased papers appear here for lifetime access.</string>
+    <string name="dashboard_logout">Logout Account</string>
+    <string name="dashboard_become_creator">Become Creator</string>
+    <string name="dashboard_switch_student">Switch to Student</string>
+    <string name="dashboard_role">Account Role: </string>
+    <string name="dashboard_language_section">Language / اللغة</string>
+    <string name="dashboard_change_language">Select Application Language</string>
+
+    <string name="notes_no_notes_long">No student notes listed. Go upload yours to earn money!</string>
+    <string name="exams_tab_past">University Past Papers</string>
+    <string name="exams_tab_practice">Practice Simulators</string>
+    <string name="exams_no_material">No test materials under this section currently. You can request AI Tutor to instantly generate a custom practice MCQ for you!</string>
+    <string name="studio_upgrade_title">Become an EduHub Seller</string>
+    <string name="studio_upgrade_desc">Earn passive cash rewards by uploading high-yield revision summaries and midterm question collections! 70% of every sale is directly transferred to your balance.</string>
+    <string name="studio_upgrade_btn">Instant Upgrade to Seller Account</string>
+    <string name="studio_balance">Active Balance</string>
+    <string name="studio_cashout">Payout</string>
+    <string name="studio_tab_course">Publish Video Course</string>
+    <string name="studio_tab_pdf">Publish PDF Notes</string>
+    <string name="studio_item_cat">Category</string>
+</resources>

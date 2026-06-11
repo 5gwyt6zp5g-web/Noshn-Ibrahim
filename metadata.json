@@ -1,0 +1,6 @@
+{
+  "name": "EduHub",
+  "description": "All-in-one educational marketplace platform for university students to study, share, and earn money.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

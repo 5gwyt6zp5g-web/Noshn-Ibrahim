@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Academic Cap Cap diamond -->
+    <path
+        android:fillColor="#F1F5F9"
+        android:pathData="M54,26 L86,41 L54,56 L22,41 Z" />
+    <!-- Academic Cap Underneath bowl -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M34,47 L34,62 C34,70 74,70 74,62 L74,47 C64,54 44,54 34,47 Z" />
+    <!-- Tassel dangling down -->
+    <path
+        android:strokeColor="#06B6D4"
+        android:strokeWidth="3"
+        android:pathData="M70,48 L80,58 L80,72"
+        android:strokeLineCap="round" />
+    <!-- Tassel drop brush circle drawn as a vector path -->
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M76,74 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0" />
+</vector>
